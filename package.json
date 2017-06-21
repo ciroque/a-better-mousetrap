@@ -1,0 +1,23 @@
+{
+  "name": "a-better-mousetrap",
+  "version": "1.0.0",
+  "description": "Mouse-movement capturing for analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciroque/a-better-mousetrap.git"
+  },
+  "keywords": [
+    "node",
+    "mouse"
+  ],
+  "author": "Steve Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciroque/a-better-mousetrap/issues"
+  },
+  "homepage": "https://github.com/ciroque/a-better-mousetrap#readme"
+}
